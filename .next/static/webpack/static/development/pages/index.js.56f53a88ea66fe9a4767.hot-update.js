@@ -70,6 +70,9 @@ var Header = function Header() {
 
 /***/ }),
 
+/***/ "./comps/Header.js":
+false,
+
 /***/ "./pages/index.js":
 /*!************************!*\
   !*** ./pages/index.js ***!
@@ -115,4 +118,4 @@ function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.cb42084d5599c6b23d30.hot-update.js.map
+//# sourceMappingURL=index.js.56f53a88ea66fe9a4767.hot-update.js.map
