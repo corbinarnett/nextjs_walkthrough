@@ -4311,16 +4311,17 @@ function Index() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
-      columnNumber: 5
+      columnNumber: 7
     }
   }, __jsx("a", {
+    title: "About Page",
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7,
-      columnNumber: 6
+      columnNumber: 9
     }
-  }, "About Page")), __jsx("p", {
+  }, "About Page"), "z"), __jsx("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
